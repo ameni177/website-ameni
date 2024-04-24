@@ -5,10 +5,10 @@ body {
 }
 
 h1{
-    color: red;
-    font-size: 32px;
-    background-color: purple;
-    padding:16px;
+    color: blue;
+    font-size: 12px;
+    background-color: yellow;
+    padding:32px;
 }
 
 header {
@@ -33,4 +33,11 @@ section {
     border: 16px solid #ccc;
     border-radius: 16px;
     padding: 10px;
+}
+
+table{
+    color: blue;
+    font-size: 12px;
+    background-color: yellow;
+    padding:32px;
 }
